@@ -4,8 +4,7 @@ import requests
 
 """
     Buat orang yang males buka website if polibatam.
-    Note: hasil yang ditampilkan kadang tidak lengkap dikarenakan di publikasikan di instgram
-    terlebih dahulu.
+    Note: hasil yang ditampilkan kemungkinan tidak akurat.
 """
 
 if __name__ == '__main__' : 
